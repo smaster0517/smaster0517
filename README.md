@@ -25,7 +25,7 @@
 <a  href="https://www.smaster0517.com/"><img src="https://img.shields.io/badge/smaster0517.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
    
 ### Languages and Tools: 🛠
-![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)]
+![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)
 ![rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![go](https://img.shields.io/badge/go-000000?style=flat&logo=go&logoColor=white)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-### My visitor count
+### My profiles views count
 
 <br />
    
