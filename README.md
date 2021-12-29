@@ -68,7 +68,9 @@
 ### My visitor count
 
 <br />
+   
 ![Visitor Count](https://profile-counter.glitch.me/smaster0517/count.svg)
+   
 ![Visitor Count](https://profile-counter.glitch.me/Shing-Ho/count.svg)
 
       
@@ -79,12 +81,12 @@
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/smaster0517/count.svg" alt="dev-akshat profile views" /> 
+  <img src="https://profile-counter.glitch.me/smaster0517/count.svg"  /> 
 </p>
 </div>
 
 ### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=false&theme=material-palenight" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=smaster0517&theme=dracula&no-bg=true&row=1"/>
 
 
