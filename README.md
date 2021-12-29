@@ -22,12 +22,12 @@
 <a href="mailto: smaster0517@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/smaster0517"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://t.me/SMaster0517"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="https://www.smaster0517.com/"><img src="https://img.shields.io/badge/billpwchan.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a  href="https://www.smaster0517.com/"><img src="https://img.shields.io/badge/smaster0517.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
    
 ### Languages and Tools: 🛠
-[![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)](https://github.com/smaster0517/)]
-[![rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)]
-[![go](https://img.shields.io/badge/go-000000?style=flat&logo=go&logoColor=white)]
+![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)](https://github.com/smaster0517/)
+![rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![go](https://img.shields.io/badge/go-000000?style=flat&logo=go&logoColor=white)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
@@ -74,7 +74,7 @@
 </div>
 
 ### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=false&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" />
    
 <br/>
    
