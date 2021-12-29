@@ -1,7 +1,7 @@
-<h1> Hi, there. Nice to meet you.</h1>👋
+👋<h1> Hi, there. Nice to meet you.</h1>
 
 ### Welcome to visit my GitHub page.
-###This is ✨@smaster0517✨. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>###This is ✨@smaster0517✨. 
 #### Reliable, passionate, and experienced developer with a strong background in Blockchain, Web and mobile technology stacks.
 #### Highly motivated self - driven developer, who holds a strong passion for exploring emerging technologies such as Blockchain technologies. 
 #### Regardless of how challenging a task, I will get it done.
@@ -24,9 +24,6 @@
 ![Gmail]<a href="mailto: smaster0517@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 ![LinkedIn]<a href="https://www.linkedin.com/in/smaster0517"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 ![Telegram]<a href="https://t.me/SMaster0517"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
-<!--<a  href="https://www.smaster0517.com/"><img src="https://img.shields.io/badge/smaster0517.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>-->
-<!--![Instagram]<a  href="https://www.instagram.com/smaster0517/"><img src="https://img.shields.io/badge/@smaster0517_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>-->
 
 ### Languages and Tools: 🛠
 [![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)](https://github.com/smaster0517/)
