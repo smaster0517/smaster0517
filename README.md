@@ -1,14 +1,11 @@
 👋<h1> Hi, there. Nice to meet you.</h1>
 ### Welcome to visit my GitHub page.
 
-###This is ✨@smaster0517✨. 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+### This is ✨@smaster0517✨. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+stack+Blockchain+Engineer;Web+Developer;With+5%2B+Years+Experience;Passionate+about+Emerging+Techs)](https://git.io/typing-svg)
 #### Reliable, passionate, and experienced developer with a strong background in Blockchain, Web and mobile technology stacks.
 #### Highly motivated self - driven developer, who holds a strong passion for exploring emerging technologies such as Blockchain technologies. 
 #### Regardless of how challenging a task, I will get it done.
-
-### Current Status Quo:
-
 - 💼 I’m pursuing a <strong>MSCS</strong>.
 - 🌱 I’m currently learning emerging blockchain technologies such as <strong>BaaS</strong>, <strong>DeFi</strong>, <strong>CBDC</strong> and so on.
 - 🤔 My research interests are with <strong>Blockchain Development, Web Development</strong>, etc.
@@ -25,12 +22,13 @@
 <a href="mailto: smaster0517@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/smaster0517"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://t.me/SMaster0517"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
+<a  href="https://www.smaster0517.com/"><img src="https://img.shields.io/badge/billpwchan.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+   
 ### Languages and Tools: 🛠
 [![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)](https://github.com/smaster0517/)
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+[![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]
+[![go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white)]
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
-<img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white">
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 
@@ -61,24 +59,16 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/smaster0517/)](https://github.com/smaster0517/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
-
-   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">   <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">   
-<img src="https://img.shields.io/badge/tableau%20-%230D597F.svg?&style=for-the-badge&logo=tableau&logoColor=white">   <img src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">   <img src="https://img.shields.io/badge/neo4j%20-%23008CC1.svg?&style=for-the-badge&logo=neo4j&logoColor=white">   <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 <br />
 
 ---
 
 <div align="center">
 
-<br/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaster0517&layout=compact&theme=dracula&private=true">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&theme=dracula&count_private=true&private=true">
-<br/>
-
 ### My visitor count
 
 <br />
-[![Visitor Count](https://profile-counter.glitch.me/smaster0517/count.svg)]
+![Visitor Count](https://profile-counter.glitch.me/smaster0517/count.svg)
 
       
 <p align="center"> 
@@ -88,11 +78,9 @@
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/dev-akshat/count.svg" alt="dev-akshat profile views" /> 
+  <img src="https://profile-counter.glitch.me/smaster0517/count.svg" alt="dev-akshat profile views" /> 
 </p>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Python+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
 
 ### Stats Overview : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
