@@ -1,8 +1,8 @@
-👋<h1> Hi, there. Nice to meet you.</h1>
+<h1> Hi, there. Nice to meet you. 👋</h1>
 ### Welcome to visit my GitHub page.
 
 ### This is ✨@smaster0517✨. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+stack+Blockchain+Engineer;Web+Developer;With+5%2B+Years+Experience;Passionate+about+Emerging+Techs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+stack+Blockchain+Engineer;Web+Developer;With+10%2B+Years'+Experience+in+Software+Development;Passionate+about+Emerging+Techs)](https://git.io/typing-svg)
 #### Reliable, passionate, and experienced developer with a strong background in Blockchain, Web and mobile technology stacks.
 #### Highly motivated self - driven developer, who holds a strong passion for exploring emerging technologies such as Blockchain technologies. 
 #### Regardless of how challenging a task, I will get it done.
@@ -69,6 +69,7 @@
 
 <br />
 ![Visitor Count](https://profile-counter.glitch.me/smaster0517/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Shing-Ho/count.svg)
 
       
 <p align="center"> 
