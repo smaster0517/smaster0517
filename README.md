@@ -56,9 +56,9 @@
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/smaster0517/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/smaster0517/)
 
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/smaster0517/)](https://github.com/smaster0517/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 <br />
 
 ---
@@ -72,7 +72,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/smaster0517/count.svg)
    
 ### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight&hide=contribs,prs" />
    
 <br/>
    
@@ -81,7 +81,7 @@
 
 ### GitHub Highlights: :blossom:
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaster0517&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaster0517&langs_count=8&layout=compact&theme=material-palenight,Tcl" />
 </a>
 <a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=smaster0517&theme=material-palenight"/>
