@@ -81,7 +81,7 @@
 
 ### GitHub Highlights: :blossom:
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaster0517&langs_count=8&layout=compact&theme=material-palenight,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaster0517&layout=compact&theme=material-palenight" />
 </a>
 <a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=smaster0517&theme=material-palenight" />
