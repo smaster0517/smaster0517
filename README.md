@@ -26,8 +26,8 @@
    
 ### Languages and Tools: 🛠
 [![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)](https://github.com/smaster0517/)
-[![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]
-[![go](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white)]
+[![rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)]
+[![go](https://img.shields.io/badge/go-000000?style=flat&logo=go&logoColor=white)]
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
@@ -70,19 +70,7 @@
 <br />
    
 ![Visitor Count](https://profile-counter.glitch.me/smaster0517/count.svg)
-   
-![Visitor Count](https://profile-counter.glitch.me/Shing-Ho/count.svg)
 
-      
-<p align="center"> 
-  <samp>
-    Profile Views Count
-  </samp>
-</p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/smaster0517/count.svg"  /> 
-</p>
 </div>
 
 ### Stats Overview : :cyclone:
