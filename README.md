@@ -76,7 +76,7 @@
    
 <br/>
    
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=smaster0517&theme=dracula&row=1&no-bg=true" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=smaster0517&theme=dracula&row=1&no-bg=true&hide=issues,prs" />
 
 
 ### GitHub Highlights: :blossom:
