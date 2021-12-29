@@ -75,7 +75,7 @@
 
 ### Stats Overview : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=false&theme=material-palenight" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=smaster0517&theme=dracula&no-bg=true&row=1"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=smaster0517&theme=onedark&column=8&no-bg=true" />
 
 
 ### GitHub Highlights: :blossom:
@@ -87,6 +87,5 @@
 </a>
 
 ### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=smaster0517&theme=dracula&color=B994E6&bg_color=2B2D3D" />
-   
-[![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=aryasoni98&theme=react-dark)](https://github.com/aryasoni98/github-readme-activity-graph)
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=smaster0517&theme=dracula&color=B994E6&bg_color=2B2D3D" />  
+
