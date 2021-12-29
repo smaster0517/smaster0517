@@ -25,7 +25,7 @@
 <a  href="https://www.smaster0517.com/"><img src="https://img.shields.io/badge/billpwchan.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
    
 ### Languages and Tools: 🛠
-[![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)](https://github.com/smaster0517/)
+[![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)](https://github.com/smaster0517/)]
 [![rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)]
 [![go](https://img.shields.io/badge/go-000000?style=flat&logo=go&logoColor=white)]
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
@@ -88,3 +88,5 @@
 
 ### Github Activity: 🔥 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=smaster0517&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+   
+[![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=aryasoni98&theme=react-dark)](https://github.com/aryasoni98/github-readme-activity-graph)
