@@ -3,12 +3,12 @@
 
 ### This is ✨@smaster0517✨. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+stack+Blockchain+Engineer;Web+Developer;With+10%2B+Years'+Experience+in+Software+Development;Passionate+about+Emerging+Techs)](https://git.io/typing-svg)
-#### Reliable, passionate, and experienced developer with a strong background in Blockchain, Web and mobile technology stacks.
+#### Reliable, passionate, and experienced developer with a strong background in Blockchain, Web and Mobile technology stacks.
 #### Highly motivated self - driven developer, who holds a strong passion for exploring emerging technologies such as Blockchain technologies. 
 #### Regardless of how challenging a task, I will get it done.
 - 💼 I’m pursuing a <strong>MSCS</strong>.
 - 🌱 I’m currently learning emerging blockchain technologies such as <strong>BaaS</strong>, <strong>DeFi</strong>, <strong>CBDC</strong> and so on.
-- 🤔 My research interests are with <strong>Blockchain Development, Web Development</strong>, etc.
+- 🤔 My research interests are with <strong>Blockchain Engineering, Web Development</strong>, etc.
 - 🔍 I’m looking for career opportunities in the <strong>Emerging Blockchain Field</strong>.
 - 💬 Feel free to discuss with me about <strong>Smart Contract</strong>, <strong>NFT</strong>, <strong>DeFi<strong>, <strong>DAPP<strong>, <strong>Web development</strong> and so on.
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-### My profiles views count
+### My profile visitor count
 
 <br />
    
