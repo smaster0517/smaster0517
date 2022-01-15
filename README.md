@@ -23,7 +23,7 @@
 <a href="mailto: smaster0517@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/smaster0517"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://t.me/SMaster0517"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="https://www.smaster0517.com/"><img src="https://img.shields.io/badge/smaster0517.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a  href="https://wix.smaster0517.com/smaster0517/"><img src="https://img.shields.io/badge/smaster0517.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
    
 ### Languages and Tools: 🛠
 ![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)
