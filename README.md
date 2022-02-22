@@ -83,5 +83,5 @@
 </a>
 
 ### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=smaster0517&theme=dracula&color=B994E6&bg_color=2B2D3D" />  
+<img align="center"  src="https://activity-graph.herokuapp.com/graph?username=smaster0517&theme=dracula&color=B994E6&bg_color=2B2D3D" />  
 </div>
