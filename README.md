@@ -67,15 +67,11 @@
 ![Visitor Count](https://profile-counter.glitch.me/smaster0517/count.svg)
    
 ### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SMaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight&hide=issues,prs,contribs" />
-   
-![Stats](https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight&hide=issues,prs,contribs)
-   
-   
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SMaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight&hide=issues,prs,contribs" />   
    
 <br/>
    
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=smaster0517&theme=dracula&row=1&no-bg=true" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=SMaster0517&theme=dracula&row=1&no-bg=true" />
 
 
 ### GitHub Highlights: :blossom:
