@@ -69,7 +69,8 @@
 ### Stats Overview : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight&hide=issues,prs,contribs" />
    
-[![(https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight&hide=issues,prs,contribs)]()
+![Stats](https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight&hide=issues,prs,contribs)
+   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasoni98&theme=blue-green)
    
    
 <br/>
