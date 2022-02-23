@@ -71,12 +71,12 @@
    
 <br/>
    
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=SMaster0517&theme=dracula&row=1&no-bg=true" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=smaster0517&theme=dracula&row=1&no-bg=true" />
 
 
 ### GitHub Highlights: :blossom:
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMaster0517&langs_count=20&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaster0517&langs_count=20&layout=compact&theme=material-palenight" />
 </a>
 <a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=smaster0517&theme=material-palenight" />
