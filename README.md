@@ -4,7 +4,7 @@
 
 ### This is ✨@smaster0517✨. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+stack+Blockchain+Engineer;Web+Developer;With+10%2B+Years'+Experience+in+Software+Development;Passionate+about+Emerging+Techs)](https://git.io/typing-svg)
-#### Reliable, passionate, and experienced developer with a strong background in Blockchain, Web and Mobile technology stacks.
+#### Reliable, passionate, and experienced developer with a strong background in Web and Blockchain technology stacks.
 #### Highly motivated self - driven developer, who holds a strong passion for exploring emerging technologies such as Blockchain technologies. 
 #### Regardless of how challenging a task, I will get it done.
 - 💼 I’m pursuing a <strong>MSCS</strong>.
