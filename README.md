@@ -8,10 +8,10 @@
 #### Highly motivated self - driven developer, who holds a strong passion for exploring emerging technologies such as Blockchain technologies. 
 #### Regardless of how challenging a task, I will get it done.
 - 💼 I’m pursuing a <strong>MSCS</strong>.
-- 🌱 I’m currently learning emerging blockchain technologies such as <strong>BaaS</strong>, <strong>DeFi</strong>, <strong>CBDC</strong> and so on.
-- 🤔 My research interests are with <strong>Blockchain Engineering, Web Development</strong>, etc.
-- 🔍 I’m looking for career opportunities in the <strong>Emerging Blockchain Field</strong>.
-- 💬 Feel free to discuss with me about <strong>Smart Contract</strong>, <strong>NFT</strong>, <strong>DeFi<strong>, <strong>DAPP<strong>, <strong>Web development</strong> and so on.
+- 🌱 I’m still learning emerging technologies.
+- 🤔 My research interests are in <strong>Front-end, back-end and full-stack engineering, and blockchain development</strong>, etc.
+- 🔍 I’m looking for career opportunities in <strong>Emerging Tech Fields</strong>.
+- 💬 Feel free to discuss with me about <strong>Web development</strong>, <strong>blockchain development</strong> and <strong>DevOps</strong> and so on.
 
 <!-- 
 - 📫 How to reach me: ...
