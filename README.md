@@ -4,14 +4,14 @@
 
 ### This is ✨@smaster0517✨. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+stack+Blockchain+Engineer;Web+Developer;With+10%2B+Years'+Experience+in+Software+Development;Passionate+about+Emerging+Techs)](https://git.io/typing-svg)
-#### Reliable, passionate, and experienced developer with a strong background in Web and Blockchain technology stacks.
-#### Highly motivated self - driven developer, who holds a strong passion for exploring emerging technologies such as Blockchain technologies. 
+#### Reliable, passionate, and experienced developer with a strong background in Machine Learning, Deep Learning, Web and Software engineering.
+#### Highly motivated self - driven developer, who holds a strong passion for exploring emerging technologies such as deep learning. 
 #### Regardless of how challenging a task, I will get it done.
 - 💼 I’m pursuing a <strong>MSCS</strong>.
 - 🌱 I’m still learning emerging technologies.
-- 🤔 My research interests are in <strong>Front-end, back-end and full-stack engineering, and blockchain development</strong>, etc.
+- 🤔 My research interests are in <strong>deep learning, data science, full-stack engineering</strong>, etc.
 - 🔍 I’m looking for career opportunities in <strong>Emerging Tech Fields</strong>.
-- 💬 Feel free to discuss with me about <strong>Web development</strong>, <strong>blockchain development</strong> and <strong>DevOps</strong> and so on.
+- 💬 Feel free to discuss with me about <strong>machine learning</strong>, <strong>data science</strong> and <strong>software development</strong> and so on.
 
 <!-- 
 - 📫 How to reach me: ...
@@ -20,7 +20,7 @@
 - ⚡ Fun fact: ... -->
 
 ### Languages and Tools: 🛠
-![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)
+<!-- ![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png) -->
 ![rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![go](https://img.shields.io/badge/go-000000?style=flat&logo=go&logoColor=white)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
