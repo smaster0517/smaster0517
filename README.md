@@ -23,8 +23,8 @@
 
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/smaster0517/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/smaster0517/)
-[![DataEngineering](https://img.shields.io/badge/-Data%20Engineering-black?style=flat&logo=dataengiineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
-[![CloudEngineering](https://img.shields.io/badge/-Cloud%20Engineering-black?style=flat&logo=cloudengineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
+[![DataEngineering](https://img.shields.io/badge/-Data%20Engineering-blue?style=flat&logo=dataengiineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
+[![CloudEngineering](https://img.shields.io/badge/-Cloud%20Engineering-003210?style=flat&logo=cloudengineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
 <!--[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/smaster0517/)-->
 
 
@@ -45,7 +45,7 @@
 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
-[![Oracle](https://img.shields.io/badge/-oracle-black?style=flat&logo=Oracle&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![Oracle](https://img.shields.io/badge/-Oracle-blue?style=flat&logo=Oracle&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 
 [![Docker](https://img.shields.io/badge/-docker-black?style=flat&logo=docker)](https://github.com/smaster0517/)
 [![TerraForm](https://img.shields.io/badge/-terraform-black?style=flat&logo=terraform)](https://github.com/smaster0517/)
