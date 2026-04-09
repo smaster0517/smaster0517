@@ -23,8 +23,8 @@
 
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/smaster0517/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/smaster0517/)
-[![DataEngineering](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/dataengineering.png)](https://github.com/smaster0517/)
-[![CloudEngineering](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/cloudengineering.png)](https://github.com/smaster0517/)
+[![DataEngineering]([https://github.com/SvenCelin/SvenCelin/blob/master/Badges/dataengineering.png)](https://img.shields.io/badge/-dataengineering-black?style=flat&logo=oracle&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
+[![CloudEngineering]([https://github.com/SvenCelin/SvenCelin/blob/master/Badges/cloudengineering.png)](https://img.shields.io/badge/-cloudengineering-black?style=flat&logo=oracle&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
 <!--[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/smaster0517/)-->
 
 
