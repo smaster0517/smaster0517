@@ -23,8 +23,8 @@
 
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/smaster0517/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/smaster0517/)
-[![DataEngineering]([https://github.com/SvenCelin/SvenCelin/blob/master/Badges/dataengineering.png)](https://img.shields.io/badge/-dataengineering-black?style=flat&logo=oracle&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
-[![CloudEngineering]([https://github.com/SvenCelin/SvenCelin/blob/master/Badges/cloudengineering.png)](https://img.shields.io/badge/-cloudengineering-black?style=flat&logo=oracle&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
+[![DataEngineering](https://img.shields.io/badge/-dataengineering-black?style=flat&logo=dataengineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
+[![CloudEngineering](https://img.shields.io/badge/-cloudengineering-black?style=flat&logo=cloudengineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
 <!--[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/smaster0517/)-->
 
 
@@ -52,6 +52,7 @@
 [![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat&logo=kubernetes)](https://github.com/smaster0517/)
 
 [![AWS](https://img.shields.io/badge/-aws-black?style=flat&logo=aws)](https://github.com/smaster0517/)
+[![Azure](https://img.shields.io/badge/-azure-black?style=flat&logo=azure)](https://github.com/smaster0517/)
 
 [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/smaster0517/)
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/smaster0517/)
