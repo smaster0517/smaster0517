@@ -91,19 +91,23 @@
    
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=smaster0517&theme=dracula&row=1&no-bg=true" /> -->
 
+<!-- ### GitHub Highlights: :blossom: -->
 
-### GitHub Highlights: :blossom:
 <!--
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaster0517&langs_count=20&layout=compact&theme=material-palenight" />
 </a>
 -->
+
+<!--
 <a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=smaster0517&theme=material-palenight" />
 </a>
+-->
 
-
+<!--
 ### Github Activity: 🔥 
 <img align="center"  src="https://activity-graph.herokuapp.com/graph?username=smaster0517&theme=dracula&color=B994E6&bg_color=2B2D3D" />  
+-->
 
 </div>
