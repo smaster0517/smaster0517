@@ -76,7 +76,7 @@
 
 <div align="center">
 
-### My profile visitor count
+<!-- ### My profile visitor count -->
 
 <br />
 
@@ -85,7 +85,7 @@
 <!-- ![Visitor Count](https://profile-counter.glitch.me/?username=smaster0517/count.svg) -->
 
    
-### Stats Overview : :cyclone:
+<!-- ### Stats Overview : :cyclone: -->
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight&hide=issues,prs,contribs" />   -->
 
    
@@ -104,6 +104,8 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=smaster0517&theme=material-palenight" />
 </a>
 
+<!--
 ### Github Activity: 🔥 
 <img align="center"  src="https://activity-graph.herokuapp.com/graph?username=smaster0517&theme=dracula&color=B994E6&bg_color=2B2D3D" />  
+-->
 </div>
