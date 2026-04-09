@@ -23,8 +23,8 @@
 
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/smaster0517/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/smaster0517/)
-[![DataEngineering](https://img.shields.io/badge/-dataengineering-black?style=flat&logo=Data%20Engiineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
-[![CloudEngineering](https://img.shields.io/badge/-cloudengineering-black?style=flat&logo=Cloud%20Engineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
+[![DataEngineering](https://img.shields.io/badge/-Data%20Engineering-black?style=flat&logo=dataengiineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
+[![CloudEngineering](https://img.shields.io/badge/-Cloud%20Engineering-black?style=flat&logo=cloudengineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
 <!--[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/smaster0517/)-->
 
 
@@ -45,14 +45,14 @@
 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
-[![Oracle](https://img.shields.io/badge/-oracle-black?style=flat&logo=oracle&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![Oracle](https://img.shields.io/badge/-oracle-black?style=flat&logo=Oracle&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 
 [![Docker](https://img.shields.io/badge/-docker-black?style=flat&logo=docker)](https://github.com/smaster0517/)
 [![TerraForm](https://img.shields.io/badge/-terraform-black?style=flat&logo=terraform)](https://github.com/smaster0517/)
 [![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat&logo=kubernetes)](https://github.com/smaster0517/)
 
-[![AWS](https://img.shields.io/badge/-aws-black?style=flat&logo=AWS)](https://github.com/smaster0517/)
-[![Azure](https://img.shields.io/badge/-azure-black?style=flat&logo=Azure)](https://github.com/smaster0517/)
+[![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=AWS)](https://github.com/smaster0517/)
+[![Azure](https://img.shields.io/badge/-Azure-black?style=flat&logo=Azure)](https://github.com/smaster0517/)
 
 [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/smaster0517/)
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/smaster0517/)
