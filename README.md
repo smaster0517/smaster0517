@@ -18,11 +18,11 @@
 - ⚡ Fun fact: ... -->
 
 ### Languages and Tools: 🛠
-[![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/smaster0517/)
-[![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/smaster0517/)
+[![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=machinelearning&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
 [![DataEngineering](https://img.shields.io/badge/-Data%20Engineering-blue?style=flat&logo=dataengiineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
 [![CloudEngineering](https://img.shields.io/badge/-Cloud%20Engineering-003210?style=flat&logo=cloudengineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
-![BlockChain](https://img.shields.io/badge/Rust-001020?style=flat&logo=rust&logoColor=white)
+[![BlockChain](https://img.shields.io/badge/BlockChain-001020?style=flat&logo=blockchain&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 <!--[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/smaster0517/)-->
 
 
@@ -33,13 +33,13 @@
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
-![go](https://img.shields.io/badge/go-000000?style=flat&logo=go&logoColor=white)
+[![go](https://img.shields.io/badge/go-000000?style=flat&logo=go&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
-![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)
-![rust](https://img.shields.io/badge/Rust-002010?style=flat&logo=rust&logoColor=white)
+[![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![rust](https://img.shields.io/badge/Rust-002010?style=flat&logo=rust&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/) 
-[![Django](https://img.shields.io/badge/-django-blue?style=flat&logo=Django)](https://github.com/smaster0517/)
+[![Django](https://img.shields.io/badge/-django-blue?style=flat&logo=Django&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 <!-- [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/) -->
 <!-- [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/) -->
 
@@ -47,25 +47,25 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 [![Oracle](https://img.shields.io/badge/-Oracle-blue?style=flat&logo=Oracle&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 
-[![Docker](https://img.shields.io/badge/-docker-102030?style=flat&logo=docker)](https://github.com/smaster0517/)
-[![TerraForm](https://img.shields.io/badge/-terraform-blue?style=flat&logo=terraform)](https://github.com/smaster0517/)
-[![Kubernetes](https://img.shields.io/badge/-kubernetes-201040?style=flat&logo=kubernetes)](https://github.com/smaster0517/)
-[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-302040?style=flat&logo=githubactions)](https://github.com/smaster0517/)
+[![Docker](https://img.shields.io/badge/-docker-102030?style=flat&logo=docker&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![TerraForm](https://img.shields.io/badge/-terraform-blue?style=flat&logo=terraform&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![Kubernetes](https://img.shields.io/badge/-kubernetes-201040?style=flat&logo=kubernetes&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-302040?style=flat&logo=githubactions&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 
-[![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=AWS)](https://github.com/smaster0517/)
-[![Azure](https://img.shields.io/badge/-Azure-102030?style=flat&logo=Azure)](https://github.com/smaster0517/)
-[![GCP](https://img.shields.io/badge/-GCP-blue?style=flat&logo=gcp)](https://github.com/smaster0517/)
+[![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=AWS&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![Azure](https://img.shields.io/badge/-Azure-102030?style=flat&logo=Azure&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![GCP](https://img.shields.io/badge/-GCP-blue?style=flat&logo=gcp&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 
-[![Jira](https://img.shields.io/badge/-Jira-223322?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/smaster0517/)
-[![Linux](https://img.shields.io/badge/-Linux-332222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/smaster0517/)
-[![TCP/IP](https://img.shields.io/badge/-TCP/IP-222233?style=flat&logo=cisco&logoColor=white)](https://github.com/smaster0517/)
+[![Jira](https://img.shields.io/badge/-Jira-223322?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![Linux](https://img.shields.io/badge/-Linux-332222?style=flat&logo=linux&logoColor=FCC624&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![TCP/IP](https://img.shields.io/badge/-TCP/IP-222233?style=flat&logo=cisco&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 
 
 
 <!-- [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/smaster0517/) -->
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/smaster0517/)
-[![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/smaster0517/)
-[![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/smaster0517/)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/smaster0517/)](https://github.com/smaster0517/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
