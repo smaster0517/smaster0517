@@ -78,8 +78,6 @@
 
 <!-- ### My profile visitor count -->
 
-<br />
-
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=smaster0517&color=dc143c) -->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/?username=smaster0517/count.svg) -->
@@ -89,7 +87,7 @@
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight&hide=issues,prs,contribs" />   -->
 
    
-<br/>
+<!-- <br/> -->
    
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=smaster0517&theme=dracula&row=1&no-bg=true" /> -->
 
