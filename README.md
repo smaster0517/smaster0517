@@ -23,8 +23,8 @@
 
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/smaster0517/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/smaster0517/)
-[![DataEngineering](https://img.shields.io/badge/-dataengineering-black?style=flat&logo=dataengineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
-[![CloudEngineering](https://img.shields.io/badge/-cloudengineering-black?style=flat&logo=cloudengineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
+[![DataEngineering](https://img.shields.io/badge/-dataengineering-black?style=flat&logo=Data%20Engiineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
+[![CloudEngineering](https://img.shields.io/badge/-cloudengineering-black?style=flat&logo=Cloud%20Engineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
 <!--[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/smaster0517/)-->
 
 
@@ -39,7 +39,7 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/) 
-[![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/smaster0517/)
+[![Django](https://img.shields.io/badge/-django-black?style=flat&logo=Django)](https://github.com/smaster0517/)
 <!-- [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/) -->
 <!-- [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/) -->
 
@@ -51,8 +51,8 @@
 [![TerraForm](https://img.shields.io/badge/-terraform-black?style=flat&logo=terraform)](https://github.com/smaster0517/)
 [![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat&logo=kubernetes)](https://github.com/smaster0517/)
 
-[![AWS](https://img.shields.io/badge/-aws-black?style=flat&logo=aws)](https://github.com/smaster0517/)
-[![Azure](https://img.shields.io/badge/-azure-black?style=flat&logo=azure)](https://github.com/smaster0517/)
+[![AWS](https://img.shields.io/badge/-aws-black?style=flat&logo=AWS)](https://github.com/smaster0517/)
+[![Azure](https://img.shields.io/badge/-azure-black?style=flat&logo=Azure)](https://github.com/smaster0517/)
 
 [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/smaster0517/)
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/smaster0517/)
