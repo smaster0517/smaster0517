@@ -80,9 +80,9 @@
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=smaster0517&color=dc143c)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=smaster0517&color=dc143c) -->
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/smaster0517/count.svg) -->
+![Visitor Count](https://profile-counter.glitch.me/?username=smaster0517/count.svg)
 
    
 ### Stats Overview : :cyclone:
