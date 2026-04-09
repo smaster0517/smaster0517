@@ -18,13 +18,11 @@
 - ⚡ Fun fact: ... -->
 
 ### Languages and Tools: 🛠
-<!-- ![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png) -->
-<!-- ![rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) -->
-
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/smaster0517/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/smaster0517/)
 [![DataEngineering](https://img.shields.io/badge/-Data%20Engineering-blue?style=flat&logo=dataengiineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
 [![CloudEngineering](https://img.shields.io/badge/-Cloud%20Engineering-003210?style=flat&logo=cloudengineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
+![BlockChain](https://img.shields.io/badge/Rust-001020?style=flat&logo=rust&logoColor=white)
 <!--[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/smaster0517/)-->
 
 
@@ -37,6 +35,8 @@
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
 ![go](https://img.shields.io/badge/go-000000?style=flat&logo=go&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+![Solidity](https://github.com/smaster0517/smaster0517/blob/main/solidity.png)
+![rust](https://img.shields.io/badge/Rust-002010?style=flat&logo=rust&logoColor=white)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/smaster0517/)](https://github.com/smaster0517/) 
 [![Django](https://img.shields.io/badge/-django-blue?style=flat&logo=Django)](https://github.com/smaster0517/)
