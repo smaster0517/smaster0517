@@ -52,7 +52,8 @@
 [![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat&logo=kubernetes)](https://github.com/smaster0517/)
 
 [![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=AWS)](https://github.com/smaster0517/)
-[![Azure](https://img.shields.io/badge/-Azure-black?style=flat&logo=Azure)](https://github.com/smaster0517/)
+[![Azure](https://img.shields.io/badge/-Azure-102030?style=flat&logo=Azure)](https://github.com/smaster0517/)
+[![GCP](https://img.shields.io/badge/-GCP-blue?style=flat&logo=gcp)](https://github.com/smaster0517/)
 
 [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/smaster0517/)
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/smaster0517/)
