@@ -18,7 +18,7 @@
 - ⚡ Fun fact: ... -->
 
 ### Languages and Tools: 🛠
-[![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/smaster0517/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=machinelearning&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
 [![DataEngineering](https://img.shields.io/badge/-Data%20Engineering-blue?style=flat&logo=dataengiineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
 [![CloudEngineering](https://img.shields.io/badge/-Cloud%20Engineering-003210?style=flat&logo=cloudengineering&link=https://github.com/smaster0517)](https://github.com/smaster0517/)
@@ -64,8 +64,8 @@
 
 <!-- [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/smaster0517/) -->
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
-[![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
-[![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
+[![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/smaster0517/)
+[![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/smaster0517/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/smaster0517/)](https://github.com/smaster0517/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/smaster0517/)](https://github.com/smaster0517/)
