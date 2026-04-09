@@ -79,11 +79,15 @@
 ### My profile visitor count
 
 <br />
-   
-![Visitor Count](https://profile-counter.glitch.me/smaster0517/count.svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=smaster0517&color=dc143c)
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/smaster0517/count.svg) -->
+
    
 ### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight&hide=issues,prs,contribs" />   
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=smaster0517&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight&hide=issues,prs,contribs" />   -->
+
    
 <br/>
    
